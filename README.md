@@ -1,3 +1,3 @@
-# G_MYTHOS_0034 
+# G_MYTHOS
 
 Developed with Unreal Engine 4
